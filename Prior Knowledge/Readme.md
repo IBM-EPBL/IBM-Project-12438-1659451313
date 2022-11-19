@@ -1,1 +1,4 @@
-
+- Regression Classification and Clustering 
+- Artificial Neural Networks
+- Convolution Neural Networks 
+- Flask
